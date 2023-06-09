@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cacbc755.css",
+    "main.js": "/static/js/main.dfd331f5.js",
+    "static/js/415.c4db54cb.chunk.js": "/static/js/415.c4db54cb.chunk.js",
+    "static/media/SpaceGrotesk-VariableFont_wght.ttf": "/static/media/SpaceGrotesk-VariableFont_wght.1036357b9651eff7d3dd.ttf",
+    "index.html": "/index.html",
+    "main.cacbc755.css.map": "/static/css/main.cacbc755.css.map",
+    "main.dfd331f5.js.map": "/static/js/main.dfd331f5.js.map",
+    "415.c4db54cb.chunk.js.map": "/static/js/415.c4db54cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cacbc755.css",
+    "static/js/main.dfd331f5.js"
+  ]
+}

@@ -1,0 +1,9 @@
+Flask==2.3.2
+Flask-Cors==3.0.10
+Flask-SQLAlchemy==3.0.3
+tensorflow==2.12.0
+opencv-python==4.7.0.72
+numpy==1.23.5
+Pillow==9.5.0
+scikit-learn==1.2.2
+gunicorn==20.1.0

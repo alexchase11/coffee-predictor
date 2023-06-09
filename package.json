@@ -1,0 +1,12 @@
+{
+  "name": "myapp",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "npm --prefix ./frontend start",
+    "install": "npm --prefix ./frontend install",
+    "heroku-postbuild": "npm --prefix ./frontend install && npm --prefix ./frontend run build"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
